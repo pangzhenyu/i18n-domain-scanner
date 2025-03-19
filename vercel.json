@@ -2,5 +2,5 @@
   "framework": "nextjs",
   "buildCommand": "next build",
   "installCommand": "bun install",
-  "regions": ["iad1"],
+  "regions": ["iad1"]
 }
