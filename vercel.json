@@ -3,7 +3,4 @@
   "buildCommand": "next build",
   "installCommand": "bun install",
   "regions": ["iad1"],
-  "env": {
-    "OPENAI_API_KEY": "@openai_api_key"
-  }
 }
